@@ -9,7 +9,7 @@
 <body>
 
 
-	<div align="center">
+	<div align="center"> 
 
 		<h1 style="color: blue">Welcome to VDM...</h1>
 
